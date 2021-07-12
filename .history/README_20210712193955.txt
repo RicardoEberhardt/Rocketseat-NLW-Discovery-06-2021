@@ -1,0 +1,2 @@
+Usamos EJS, Express e sqlite
+Aplicação desenvolvida durante o evento NLW da Rocketseat, 

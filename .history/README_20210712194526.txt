@@ -1,5 +1,5 @@
 Aplicação desenvolvida durante o evento NLW da Rocketseat, usamos EJS, Express e sqlite
 
-Esta aplicação é um gerenciador de perguntas feitas por usuários. 
+Esta aplicação é um gerenciador de perguntas feitas por usuários da plataforma 
 
 Para iniciar basta rodar o comando npm start e acessar através do localhost:3000
