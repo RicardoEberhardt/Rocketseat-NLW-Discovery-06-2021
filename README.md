@@ -1,3 +1,4 @@
-# Rocketseat-NLW-Discovery-06-2021
+# Rocketseat Next Level Week Junho 2021
+## Trilha Discovery
 
 ![Legenda](https://img.shields.io/badge/license-MIT-blue)
