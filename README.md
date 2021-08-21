@@ -2,7 +2,7 @@
 
 ![Legenda](https://img.shields.io/badge/Ricardo%20Eberhardt-Rocketseat%20NLW-orange) ![Legenda](https://img.shields.io/badge/license-MIT-blue)
 
-Projeto desenvolvido durante a NLW de junho/2021 da Rocketseat
+* Projeto desenvolvido durante a NLW de junho/2021 da Rocketseat
 
 ## Preview
 
@@ -14,7 +14,7 @@ Projeto desenvolvido durante a NLW de junho/2021 da Rocketseat
 
 ## O que é?
 
-Um gerenciador de perguntas feitas por usuários
+* Um gerenciador de perguntas feitas por usuários
 
 ## Como executar o projeto?
 * npm install
